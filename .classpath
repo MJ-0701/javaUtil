@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="lib/apache-ant-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/com.jcraft.jsch_0.1.31.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.8.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
